@@ -1,16 +1,15 @@
-## Hi there 👋
+### 💼 About Me
 
-<!--
-**esma435/esma435** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Software Development student passionate about developing reliable and scalable web applications. Alongside my active learning journey in Python and related technologies, I am learning to build automation tools. My future focus is on integrating artificial intelligence solutions into projects.
 
-Here are some ideas to get you started:
+- 🔍 **Currently interested in:** Artificial Intelligence, Backend Development, Data Automation
+- 💡 **Experienced in / Currently learning:** Python, Django, C, Java
+- 🚀 **Passionate about:** Data Automation, Artificial Intelligence, and Teamwork
+- 🌍 **Location:** Istanbul, Türkiye 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+
+**Languages & Frameworks**
+Python | Django | C | Java
